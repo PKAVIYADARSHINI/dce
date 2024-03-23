@@ -1,1 +1,1 @@
-place=bangalore
+place=chennai
